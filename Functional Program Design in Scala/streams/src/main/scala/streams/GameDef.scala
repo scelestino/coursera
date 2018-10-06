@@ -23,7 +23,7 @@ trait GameDef {
    *   2 o # o o    # is at position Pos(2, 1)
    *   3 o o o o
    *
-   *   ^
+   *
    *   |
    *
    *   row axis
